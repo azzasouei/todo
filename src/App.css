@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+.formTodo {
+  display: flex;
+  justify-content: space-between;
+  width: 40%;
+  margin: auto;
+}
+
+.listTodo {
+  display: flex;
+  justify-content: space-between;
+  width: 40%;
+  margin: auto;
+  padding-bottom: 10px;
+  padding-top: 20px;
+}
